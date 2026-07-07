@@ -25,11 +25,11 @@ I enjoy working across both technical and project-facing work, including **full-
   <a href="mailto:jennyliang5118@gmail.com">
     <img src="https://img.shields.io/badge/Email-jennyliang5118%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="./resume/Jenny_Liang_Resume.pdf">
+  <a href="./Jenny_Liang_Resume.pdf">
     <img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
   </a>
 </p>
----
+
 
 
 ## Skills I Have
