@@ -9,9 +9,14 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
 </p>
----
 
-## Contact Info
+
+## About Me
+
+I'm an undergraduate student at **UC Berkeley** studying **Data Science and Statistics**, with a focus on **business and industrial analytics**. I'm interested in **software engineering, data science, product management, and building impactful technology**.
+
+I enjoy working across both technical and project-facing work, including **full-stack development, data consulting, product planning, and cross-functional project management**. I'm from **Ontario, California**, and I'm currently based in **Berkeley**.
+<br>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jenny-liang-08571631a">
@@ -20,24 +25,20 @@
   <a href="mailto:jennyliang5118@gmail.com">
     <img src="https://img.shields.io/badge/Email-jennyliang5118%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="./resume/Jenny_Liang_Resume.pdf">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
+  </a>
 </p>
-
-## About Me
-
-I'm an undergraduate student at **UC Berkeley** studying **Data Science and Statistics**, with a focus on **business and industrial analytics**. I'm interested in **software engineering, data science, product management, and building impactful technology**.
-
-I enjoy working across both technical and project-facing work, including **full-stack development, data consulting, product planning, and cross-functional project management**. I'm from **Ontario, California**, and I'm currently based in **Berkeley**.
-
 ---
 
 
 ## Skills I Have
-**Programming Languages**: `Python` `JavaScript` `TypeScript` `C` `SQL` `HTML` `CSS`
-**Frameworks & Developer Tools**: `React.js` `React Native` `Node.js` `FastAPI` `Vite` `Expo` `Tailwind CSS` `Git` `GitHub` `Figma`
-**Backend, Databases & Cloud**: `PostgreSQL` `AWS RDS` `Firebase` `Supabase` `REST APIs` `Database Design` `SQL Queries`
-**Data Science & Machine Learning**: `pandas` `NumPy` `Matplotlib` `Seaborn` `scikit-learn` `TensorFlow` `PyTorch` `Jupyter Notebook`
-**Data & Analytics Skills**: `Data Cleaning` `Data Visualization` `Data Analytics` `Classification` `Random Forests` `OLS Regression` `Probability` `Statistics` `Method of Moments` `Hypothesis Testing` `Econometrics` `Financial Analysis`
-**General Skills**: `Project Management` `Research` `Problem-Solving` `Communication` `Mentoring/Teaching` `Technical Documentation` `LaTeX`
+**Programming Languages**: `Python` `JavaScript` `TypeScript` `C` `SQL` `HTML` `CSS` <br>
+**Frameworks & Developer Tools**: `React.js` `React Native` `Node.js` `FastAPI` `Vite` `Expo` `Tailwind CSS` `Git` `GitHub` `Figma` <br>
+**Backend, Databases & Cloud**: `PostgreSQL` `AWS RDS` `Firebase` `Supabase` `REST APIs` `Database Design` `SQL Queries` <br>
+**Data Science & Machine Learning**: `pandas` `NumPy` `Matplotlib` `Seaborn` `scikit-learn` `TensorFlow` `PyTorch` `Jupyter Notebook` <br>
+**Data & Analytics Skills**: `Data Cleaning` `Data Visualization` `Data Analytics` `Classification` `Random Forests` `OLS Regression` `Probability` `Statistics` `Method of Moments` `Hypothesis Testing` `Econometrics` `Financial Analysis` <br>
+**General Skills**: `Project Management` `Research` `Problem-Solving` `Communication` `Mentoring/Teaching` `Technical Documentation` `LaTeX` <br>
 
 ---
 
@@ -45,7 +46,7 @@ I enjoy working across both technical and project-facing work, including **full-
 
 ### Behn Meyer AgriCare Vietnam
 
-**Project Manager** · Full-Stack Client Project · [Repository](link-to-repo)
+**Project Manager** · Full-Stack Client Project · [Repository](link-to-repo) <br>
 **Tech Stack:** React.js + Native / Expo / FastAPI / PostgreSQL / AWS RDS / TypeScript / JavaScript
 
 <details>
@@ -78,7 +79,7 @@ Behn Meyer AgriCare Vietnam is a client-facing mobile and web platform designed 
 
 ### LumenRoute
 
-**Project Manager** · Mobile Safety Navigation App · [Repository](link-to-repo)
+**Project Manager** · Mobile Safety Navigation App · [Repository](link-to-repo) <br>
 **Tech Stack:** React Native / Expo / Google Maps API / OpenStreetMap API / Firebase / BeautifulSoup / Firecrawl / News API
 
 <details>
@@ -114,7 +115,7 @@ The safety score is calculated using historical crime data, including public dat
 
 ### CarbonGraph
 
-**Project Manager** · AI-Assisted Data Extraction · [Repository](link-to-repo-if-public)
+**Project Manager** · AI-Assisted Data Extraction · [Repository](link-to-repo-if-public) <br>
 **Tech Stack:** DeepSeek API / OpenAI API / PostgreSQL / JSON / TensorFlow / Python
 
 <details>
@@ -151,7 +152,7 @@ The project used AI-assisted workflows to search, parse, and extract relevant BO
 
 ### EduQuest (Client LMNT)
 
-**Developer** · Educational Web Game Platform · [Repository](link-to-repo)
+**Developer** · Educational Web Game Platform · [Repository](link-to-repo) <br>
 **Tech Stack**: React.js / JavaScript / LMNT API / Python / pandas / Regex / Pygame
 
 <details>
@@ -235,7 +236,7 @@ Our project focused on understanding the organization’s target users, the fina
 
 ### Biotech Market Research Consulting Project
 
-**Consultant** · Biotech / Healthcare Market Research · Confidential Client
+**Consultant** · Biotech / Healthcare Market Research · Confidential Client <br>
 **Skills \& Tools**: Qualtrics / Data Augmentation / Data Visualization / Regression Analysis
 
 <details>
@@ -271,8 +272,14 @@ This was a client consulting project for a biotech company focused on understand
 
 ## Connect With Me
 
-- **LinkedIn:** [Jenny Liang](https://www.linkedin.com/in/jenny-liang-08571631a)
-- **Email:** [jennyliang5118@gmail.com](mailto:jennyliang5118@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/jenny-liang-08571631a">
+    <img src="https://img.shields.io/badge/LinkedIn-Jenny%20Liang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jennyliang5118@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jennyliang5118%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <!--
 **Jennyl51/Jennyl51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
