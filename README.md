@@ -270,6 +270,14 @@ This was a client consulting project for a biotech company focused on understand
 
 ---
 
+## Beyond the Code
+
+- 🌎 I love learning languages and exploring how language shapes communication, culture, and identity.
+- 🎨 I enjoy drawing, hand-crafts, visual design, animation, and making projects feel more expressive and personal.
+- 🍵 Through my two on-campus roles, I’ve had the chance to support students, advise student organizations, and stay connected to the Berkeley community.
+- 📚 I enjoy trying new things and exploring different sides of myself, from video creation and animation to learning new instruments, sports, and creative tools.
+
+
 ## Connect With Me
 
 <p align="left">
