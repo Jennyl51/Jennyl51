@@ -46,7 +46,7 @@ I enjoy working across both technical and project-facing work, including **full-
 
 ### Behn Meyer AgriCare Vietnam
 
-**Project Manager** · Full-Stack Client Project · [Repository](link-to-repo) <br>
+**Project Manager** · Full-Stack Client Project · [Repository](https://github.com/Jennyl51/BM-Agricare) <br>
 **Tech Stack:** React.js + Native / Expo / FastAPI / PostgreSQL / AWS RDS / TypeScript / JavaScript
 
 <details>
@@ -79,7 +79,7 @@ Behn Meyer AgriCare Vietnam is a client-facing mobile and web platform designed 
 
 ### LumenRoute
 
-**Project Manager** · Mobile Safety Navigation App · [Repository](link-to-repo) <br>
+**Project Manager** · Mobile Safety Navigation App · [Repository](https://github.com/Jennyl51/LumenRoute) <br>
 **Tech Stack:** React Native / Expo / Google Maps API / OpenStreetMap API / Firebase / BeautifulSoup / Firecrawl / News API
 
 <details>
@@ -115,7 +115,7 @@ The safety score is calculated using historical crime data, including public dat
 
 ### CarbonGraph
 
-**Project Manager** · AI-Assisted Data Extraction · [Repository](link-to-repo-if-public) <br>
+**Project Manager** · AI-Assisted Data Extraction · [Repository](https://github.com/Jennyl51/carbo2null) <br>
 **Tech Stack:** DeepSeek API / OpenAI API / PostgreSQL / JSON / TensorFlow / Python
 
 <details>
@@ -152,7 +152,7 @@ The project used AI-assisted workflows to search, parse, and extract relevant BO
 
 ### EduQuest (Client LMNT)
 
-**Developer** · Educational Web Game Platform · [Repository](link-to-repo) <br>
+**Developer** · Educational Web Game Platform · [Repository](https://github.com/Jennyl51/Moski-s-Spelling-Adv) <br>
 **Tech Stack**: React.js / JavaScript / LMNT API / Python / pandas / Regex / Pygame
 
 <details>
@@ -191,6 +191,52 @@ Designed for young learners, especially elementary students around **grades 1–
 </details>
 
 ---
+### OECD Decision Atlas — Gates Foundation Datathon
+
+**Data Product Developer / Case Competition Team Member** · Data Dashboard / Philanthropy Analytics · Next.js / React / TypeScript / Tailwind CSS / Plotly / Python · [Repository](https://github.com/Jennyl51/gates-foundation-product)
+
+<details>
+<summary><strong>Interactive philanthropy analytics dashboard using OECD funding data</strong></summary>
+
+<br>
+
+OECD Decision Atlas was a data product built for the **SP26 DSS x DataGood x Open Project Case Competition** Product Track. The dashboard analyzes OECD philanthropy and development funding data to help users explore funding patterns, donor behavior, SDG alignment, and country-level insights.
+
+The project focused on turning a large OECD funding dataset into an interactive decision-support dashboard with clean visualizations, trust-tier labels, methodology notes, and auto-generated analytical brief snippets.
+
+**Project Highlights**
+
+- Built an interactive analytics dashboard using Next.js, React, TypeScript, Tailwind CSS, and Plotly.
+- Helped transform a large OECD CSV dataset into structured JSON files through a Python preprocessing pipeline.
+- Designed dashboard pages for decision briefs, SDG misalignment, donor profiles, country profiles, exploratory filtering, and methodology notes.
+- Supported user-facing analysis through interactive charts, sortable tables, filter-driven aggregation, and auto-generated brief snippets.
+- Emphasized transparent data communication through trust-tier badges, caveats, glossary tooltips, and methodology explanations.
+- Collaborated on a product-track case competition focused on making philanthropy funding data more interpretable and actionable.
+
+**Key Features**
+
+- Decision brief homepage with ranked findings
+- SDG goal alignment analysis
+- Country-level donor profiles
+- Donor/foundation profile pages
+- Interactive filtering and auto-generated brief snippets
+- Plotly charts with hover interactions
+- Python CSV-to-JSON preprocessing pipeline
+- Trust badges and methodology notes for transparent data interpretation
+
+**What I Practiced**
+
+- Data product development
+- Dashboard design
+- Data preprocessing
+- Policy and philanthropy analytics
+- Interactive visualization
+- Research synthesis
+- Technical communication
+
+</details>
+
+
 ## Consulting \& Product Management
 ### FIRST Consulting Project
 
